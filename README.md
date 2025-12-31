@@ -22,6 +22,22 @@
 
 <br clear="both">
 
+<h3 align="left">About Me</h3>
+
+<p align="left">
+  I’m a <b>frontend-focused full stack developer</b> who enjoys building clean,
+  responsive, and user-friendly web applications.  
+  I have a strong interest in modern web technologies, UI/UX design, and
+  performance-optimized interfaces.
+</p>
+
+<p align="left">
+  Alongside development, I’m actively exploring <b>Generative AI</b> and how it can
+  enhance real-world applications.  
+  I love learning new tools, experimenting with ideas, and continuously improving
+  my coding skills.
+</p>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -79,17 +95,8 @@
   />
 </p>
 
-<!-- ✅ FIXED & STABLE GITHUB STREAK STATS -->
-<p align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img
-      src="https://streak-stats.demolab.com?user=4darshshetty&theme=github-dark&hide_border=true"
-      alt="GitHub Streak Stats"
-    />
-  </a>
-</p>
-
 <p align="center">
   © 2025 Adarsh Shetty
 </p>
+
 
