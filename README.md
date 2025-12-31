@@ -79,10 +79,11 @@
   />
 </p>
 
+<!-- ✅ FIXED & STABLE GITHUB STREAK STATS -->
 <p align="center">
   <a href="https://git.io/streak-stats" target="_blank">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=4darshshetty&theme=github-dark&hide_border=true"
+      src="https://streak-stats.demolab.com?user=4darshshetty&theme=github-dark&hide_border=true"
       alt="GitHub Streak Stats"
     />
   </a>
@@ -91,3 +92,4 @@
 <p align="center">
   © 2025 Adarsh Shetty
 </p>
+
